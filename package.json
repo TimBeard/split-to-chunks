@@ -1,0 +1,9 @@
+{
+  "name": "split-to-chunks",
+  "version": "1.0.0",
+  "description": "Splits an array or a string to an array of chunks of the given size",
+  "main": "index.js",
+  "repository": "https://github.com/TimBeard/split-to-chunks.git",
+  "author": "Timothy Beard <timothy.beard@orange.fr>",
+  "license": "MIT"
+}
